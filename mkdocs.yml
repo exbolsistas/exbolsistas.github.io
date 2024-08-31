@@ -11,6 +11,8 @@ markdown_extensions:
   - pymdownx.superfences
 theme:
   name: material
+  language: pt-BR
+  logo: imagens/Logo.png
   features:
   - navigation.tabs
   - content.action.edit
@@ -43,4 +45,6 @@ extra:
       name: email do Núcleo de (ex-)bolsistas no GitHub
     
 nav:
-- Home: index.md
+- Início: index.md
+- Faça Parte: Faça Parte.md
+- SUPPORT.md
