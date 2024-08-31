@@ -1,0 +1,44 @@
+site_name: Núcleo de (ex-)bolsistas do Brasil no exterior
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+theme:
+  name: material
+  features:
+  - navigation.tabs
+  - content.action.edit
+  palette:
+    primary: amber
+    accent: red
+# I'll keep it here for the future
+# plugins:
+#  - blog
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://bolha.us/@exbolsistas
+      name: Núcleo de (ex-)bolsistas no Mastodon @ bolha.us
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/exbolsistas
+      name: Núcleo de (ex-)bolsistas no Twitter
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/exbolsistas
+      name: Núcleo de (ex-)bolsistas no Instagram
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=61552063049433
+      name: Núcleo de (ex-)bolsistas no Facebook
+    - icon: fontawesome/brands/github
+      link: https://github.com/exbolsistas
+      name: org do Núcleo de (ex-)bolsistas no GitHub
+    - icon: fontawesome/regular/envelope
+      link: mailto:nucleo.exbolsistas@gmail.com
+      name: email do Núcleo de (ex-)bolsistas no GitHub
+    
+nav:
+- Home: index.md
