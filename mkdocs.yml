@@ -1,4 +1,5 @@
 site_name: Núcleo de (ex-)bolsistas do Brasil no exterior
+repo_url: https://github.com/exbolsistas/exbolsistas.github.io
 markdown_extensions:
   - attr_list
   - footnotes
@@ -13,6 +14,7 @@ theme:
   features:
   - navigation.tabs
   - content.action.edit
+  - content.action.view
   palette:
     primary: amber
     accent: red
