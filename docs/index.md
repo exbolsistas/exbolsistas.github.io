@@ -8,4 +8,4 @@ Adicionalmente, o Núcleo busca ser uma referência para a diáspora científica
 
 O Núcleo também é um **espaço de acolhimento, troca de experiências e apoio** para  bolsistas e ex-bolsistas do Brasil no exterior, bem como familiares.
 
-Veja como **fazer parte do Núcleo** na página [Faça Parte]().
+Veja como **fazer parte do Núcleo** na página [Faça Parte](./Faça%20Parte.md).
