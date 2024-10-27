@@ -49,7 +49,9 @@ extra:
 nav:
 - Sobre o Núcleo: 
   - index.md
-  - Atuação: atuação.md
+  - Atuação: 
+    - atuação.md
+    - Desenrola Brazil: desenrola-brazil.md
 - Faça Parte: faça-parte.md
 - documentos.md
 - redes-e-parceiros.md
