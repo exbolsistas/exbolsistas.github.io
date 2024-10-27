@@ -47,7 +47,9 @@ extra:
       name: email do Núcleo de (ex-)bolsistas no GitHub
     
 nav:
-- Sobre o Núcleo: index.md
+- Sobre o Núcleo: 
+  - index.md
+  - Atuação: atuação.md
 - Faça Parte: faça-parte.md
 - redes-e-parceiros.md
 - SUPPORT.md
