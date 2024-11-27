@@ -52,6 +52,7 @@ extra:
 nav:
 - Sobre o Núcleo: 
   - index.md
+  - Estatuto: estatuto.md
   - Atuação: 
     - atuação.md
     - Desenrola Brazil: desenrola-brazil.md
