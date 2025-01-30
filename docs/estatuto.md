@@ -78,7 +78,7 @@ As senhas de acesso a ferramentas devem ser alteradas pelo menos uma vez por ano
     * Pessoas ou organizações externas convidadas (como a Associação Nacional de Pós-Graduandos - ANPG, representantes das agências de fomento) podem participar de grupos de trabalho designados.
     * As secretarias (ou secretariados) de cada GT serão responsáveis pela administração do grupo de trabalho. 
 
-## Reuniões Extraordinárias e com Pessoas Internas
+## Reuniões Extraordinárias e com Pessoas Externas
 
 * A organização de reuniões do Núcleo com pessoas externas deve ser aprovada em reunião plenária, ou em GT, desde que o tema da reunião esteja de acordo com a área de atuação do GT.
 * Se não houver um limite imposto pelas pessoas externas ao Núcleo sobre o número de pessoas que podem participar da reunião, a participação de todas as pessoas integrantes do Núcleo nas reuniões, mesmo que apenas como ouvintes, deverá ser privilegiada. Caso haja limite, a participação deverá ser decidida nos canais de comunicação apropriados.
