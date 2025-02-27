@@ -17,6 +17,7 @@ theme:
   favicon: imagens/favicon.ico
   features:
   - navigation.tabs
+  - navigation.indexes
   - content.action.edit
   - content.action.view
   palette:
@@ -56,7 +57,13 @@ nav:
   - Atuação: 
     - atuação.md
     - Desenrola Brazil: desenrola-brazil.md
+  - documentos.md
 - Faça Parte: faça-parte.md
-- documentos.md
+- Informações para Bolsistas:
+  - info-bolsistas/index.md
+  - Conhecimento Brasil: info-bolsistas/conhecimento-brasil.md
+  - info-bolsistas/novacao.md
+  - info-bolsistas/regulamentacao.md
+  
 - redes-e-parceiros.md
 - SUPPORT.md
