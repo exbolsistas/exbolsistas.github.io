@@ -10,4 +10,4 @@ Para saber mais, veja a página [Quem Somos](index.md).
 
 Ao se tornar integrante do Núcleo você terá acesso a **fórums de discussão** com outros bolsistas e ex-bolsitas, e também aos **documentos internos** do Núcleo. 
 
-Atualmente temos cerca de 160 integrantes, nosso forum principal de comunicação é uma comuninade com diversos grupos no :fontawesome-brands-whatsapp: **WhatsApp** e a nossa reunião plenária ordinária a cada duas semanas.
+Atualmente temos cerca de 160 integrantes, nosso forum principal de comunicação é uma comunidade com diversos grupos no :fontawesome-brands-whatsapp: **WhatsApp** e a nossa reunião plenária ordinária a cada duas semanas.
