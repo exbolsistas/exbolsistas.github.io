@@ -60,9 +60,10 @@ Para a operação do Núcleo são utilizadas diversas ferramentas de comunicaç�
 Como regra geral, o acesso privilegiado às ferramentas (e.g., acesso como administrador) deve ser provido apenas quando necessário para execução de tarefas e funções.
 
 As informações mantidas pelo Núcleo (e.g. documentos no google drive) devem observar as seguintes classificações:
-* Pública: Informações que podem ser compartilhar com qualquer pessoa de fora do Núcleo
-* Interna: Informações disponíveis apenas às pessoas integrantes do Núcleo; e
-* Confidencial: Informações sensíveis (e.g., contendo informações pessoais, como a lista de integrantes do Núcleo) disponíveis apenas às pessoas integrantes do Núcleo que necessitem da informação para execução de tarefas, previamente apontadas através dos meios de comunicação adequados
+
+* **Pública**: Informações que podem ser compartilhar com qualquer pessoa de fora do Núcleo
+* **Interna**: Informações disponíveis apenas às pessoas integrantes do Núcleo; e
+* **Confidencial**: Informações sensíveis (e.g., contendo informações pessoais, como a lista de integrantes do Núcleo) disponíveis apenas às pessoas integrantes do Núcleo que necessitem da informação para execução de tarefas, previamente apontadas através dos meios de comunicação adequados
 
 O acesso às informações confidenciais e acesso privilegiado a ferramentas deve sempre ser justificado e documentado. A classificação da informação deve ser sempre clara.
 
