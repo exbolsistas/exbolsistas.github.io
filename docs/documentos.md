@@ -18,13 +18,14 @@ Aqui publicamos links dos documentos criados pelo Núcleo.
 
 Nessa seção listamos comunicados oficiais enviados a instituiçoes.
 
-| Comunicação                                                                                       | Descrição |
-| ------------------------------------------------------------------------------------------------- | --------- |
-| [09 de Junho de 2025,  Ofício - Novação - Reconhecimento de atividades anteriores][2025-06-09]    |           |
-| [10 de Fevereiro de 2025, Ofício pós-reunião para SecexConsenso, TCU]                             |           |
-| [08 de Dezembro de 2025, Ofício - Novação - Sugestão sobre vínculo institucional de ex-bolsistas] |           |
+| 🗓️ Data              | Comunicação                                                               | Descrição                                                                                                                                                                                                                                                          |
+| ----------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 09 de Junho de 2025     | [Ofício - Novação - Reconhecimento de atividades anteriores][2025-06-09]  | Ofício solicitando a revisão das portarias de novação, com relação ao Art. 7o §2o, para que sejam aceitas atividades realizadas de forma expontânea, anteriores à um acordo de novação firmado.                                                                                                                                                                                                                                                                    |
+| 10 de Fevereiro de 2025 | [Ofício pós-reunião para SecexConsenso, TCU]                              | Ofício contento um resumo da situação e principais problems enfrentados por ex-bolsitas, enviado à SecexConseno, TCU, após reunião.                                                                                                                                                                                                                                                                   |
+| 08 de Dezembro de 2025  | [Ofício - Novação - Sugestão sobre vínculo institucional de ex-bolsistas] | Ofício sugerindo que seja removida da avaliação de propostas de novação o vínculo institucional do ex-bolsisita como critério. Muitos ex-bolsistas não propões atividades relacionadas ao seu vínculo institucional devido à, por exemplo, falta de instabilidade. |
+|                         |                                                                           |                                                                                                                                                                                                                                                                    |
 
 <!-- O link normal não estava funcionado, por isso tive que usar esse formato -->
 [2025-06-09]: https://drive.google.com/file/d/1zt2f65HtPl8NoqEyjVFzmzfDa2C8Svxh/view
-[10 de Fevereiro de 2025, Ofício pós-reunião para SecexConsenso, TCU]: https://drive.google.com/file/d/1qlbA8JJZ6j7SCQG7N7IXKfbYaXwiOkhO/view
-[08 de Dezembro de 2025, Ofício - Novação - Sugestão sobre vínculo institucional de ex-bolsistas]: https://drive.google.com/file/d/1c6bmVwKMMl2ct_7S_t6lL-GwWB2XQaHp/view
+[Ofício pós-reunião para SecexConsenso, TCU]: https://drive.google.com/file/d/1qlbA8JJZ6j7SCQG7N7IXKfbYaXwiOkhO/view
+[Ofício - Novação - Sugestão sobre vínculo institucional de ex-bolsistas]: https://drive.google.com/file/d/1c6bmVwKMMl2ct_7S_t6lL-GwWB2XQaHp/view
