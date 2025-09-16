@@ -9,7 +9,6 @@ conhecimentos científicos e seus benefícios práticos.
 
 ## Documentos
 
-- [Texto do programa](https://drive.google.com/file/d/1-MOKfkt2_u3amhYYLniMKZgeMu6mmG6q/view)
 - [Apresentação do Desenrola Brazil com Z na 2a COMIGRAR] (Conferência Nacional de Migrações, Refúgio e Apatridia)
 
 [Apresentação do Desenrola Brazil com Z na 2a COMIGRAR]: https://docs.google.com/presentation/d/1TGYx8jNWBtJ-0ttAUHGiJJtpqvqaPys7mpt9dSGGF1c/view
