@@ -4,6 +4,6 @@ Atuamos junto às agências públicas de fomento (e.g., CNPq, CAPES), parlamenta
 
 Atuamos também em parceria com outras redes de (ex-)bolsistas e pesquisadores e organizações, conheça mais na página [Redes e Parcerias].
 
-[Eventos e Reuniões]: ./eventos-reuniões.md
+[Eventos e Reuniões]: ./eventos-reunioes.md
 [Documentos]: ./documentos.md
 [Redes e Parcerias]: ./redes-e-parceiros.md
