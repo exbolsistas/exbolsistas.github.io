@@ -6,9 +6,3 @@ Inspirado no [Desenrola Brasil](https://desenrola.gov.br/), que objetivou recupe
 
 Esta proposta vem ao encontro da busca de soluções para cidadãos brasileiros pelo Governo Federal, estejam eles no país ou no exterior, fomentando a integração de iniciativas governamentais às necessidades da sociedade, no que tange os
 conhecimentos científicos e seus benefícios práticos.
-
-## Documentos
-
-- [Apresentação do Desenrola Brazil com Z na 2a COMIGRAR] (Conferência Nacional de Migrações, Refúgio e Apatridia)
-
-[Apresentação do Desenrola Brazil com Z na 2a COMIGRAR]: https://docs.google.com/presentation/d/1TGYx8jNWBtJ-0ttAUHGiJJtpqvqaPys7mpt9dSGGF1c/view
