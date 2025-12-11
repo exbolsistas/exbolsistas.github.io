@@ -31,6 +31,10 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://bolha.us/@exbolsistas
       name: Núcleo de (ex-)bolsistas no Mastodon @ bolha.us
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/company/exbolsistas/
+      name: Núcleo de (ex-)bolsistas no LinkedIn
+    - icon: fontawesome/brands/twitter
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/exbolsistas.bsky.social
       name: Núcleo de (ex-)bolsistas no Bluesky
@@ -43,6 +47,9 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://www.facebook.com/profile.php?id=61552063049433
       name: Núcleo de (ex-)bolsistas no Facebook
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@exbolsistas
+      name: Núcleo de (ex-)bolsistas no YouTube
     - icon: fontawesome/brands/github
       link: https://github.com/exbolsistas
       name: org do Núcleo de (ex-)bolsistas no GitHub
@@ -65,6 +72,5 @@ nav:
   - Conhecimento Brasil: info-bolsistas/conhecimento-brasil.md
   - info-bolsistas/novacao.md
   - info-bolsistas/regulamentacao.md
-  
-- redes-e-parceiros.md
+- redes-e-parcerias.md
 - SUPPORT.md

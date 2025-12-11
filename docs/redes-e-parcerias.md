@@ -12,7 +12,7 @@ Aqui listamos links que podem ajudar bolsistas, ex-bolsitas e outras partes inte
 
 Listas e mapeamentos de terceiros:
 
-* [Hub da Diáspora Científica e Tecnológica Brasileira] - seção _Redes de Pesquisadores e Profissionais Brasileiros no Exterior_
+* [Hub da Diáspora Científica e Tecnológica Brasileira] - Ministério de Relações Exteriores, Brasil, seção _Redes de Pesquisadores e Profissionais Brasileiros no Exterior_
 * [Mapeamento da Rede Sabiá]
 
 [Hub da Diáspora Científica e Tecnológica Brasileira]: https://www.gov.br/mre/pt-br/assuntos/ciencia-tecnologia-e-inovacao/hub-da-diaspora-cientifica-e-tecnologica-brasileira
