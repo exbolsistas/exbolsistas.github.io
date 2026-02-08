@@ -6,4 +6,4 @@ Atuamos também em parceria com outras redes de (ex-)bolsistas e pesquisadores e
 
 [Eventos e Reuniões]: ./eventos-reunioes.md
 [Documentos]: ./documentos.md
-[Redes e Parcerias]: ./redes-e-parceiros.md
+[Redes e Parcerias]: ./redes-e-parcerias.md
