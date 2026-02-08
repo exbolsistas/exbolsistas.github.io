@@ -34,7 +34,6 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/company/exbolsistas/
       name: Núcleo de (ex-)bolsistas no LinkedIn
-    - icon: fontawesome/brands/twitter
     - icon: fontawesome/brands/bluesky
       link: https://bsky.app/profile/exbolsistas.bsky.social
       name: Núcleo de (ex-)bolsistas no Bluesky
